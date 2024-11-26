@@ -190,80 +190,8 @@ padding: 20px 0px;
     letter-spacing: 2px;
     color: #fff;
 }
-
 @media (min-width:279px) and (max-width:319px){
-    .containar{
-        width: 90%;
-        margin: 0px  auto;
-    }
-    .row{
-    width: 100%;
-    float: left;
-    }
-    .col12{
-        width: 100%;
-        float: left;
-    }
-    .col6{
-        width: 100%;
-        float: left;
-    }
-    .col4{
-        width: 100%;
-        float: left;
-    }
-    .logo{
-        display: block;
-        width: 100%;
-        text-align: center;
-    }
-    .header .menu li a{
-        margin: 10px 0px 0px 9px;
-    }
-    .banner {
-      
-        padding: 30px 0px;
-        text-align: center;
-    }
-    .banner h1 {
-       font-size: 26px;
-}
-    .banner p{
-        font-size: 12px;
-    }
-    .successfully-left h1 {
-        font-size: 26px;
-        text-align: center;
-    }
-    .successfully-left p{
-        font-size: 12px;
-        text-align: center;
 
-    }
-    .successfully-right h1 {
-    
-        font-size: 26px;
-        margin: 0px 0px 0px 15px;
-        text-align: center;
-    }
-    .inner-feature{
-        margin: 0px 0px 20px;
-        width: 80%;
-    }
-    .inner-feature h4 {
-        font-size: 22px; 
-    }
-    .inner-feature p {
-        font-size: 12px;
-    
-        
-    }
-    .feature{
-          padding: 20px 0px 30px;
-        }
-        .footer p {
-            font-size: 10px;
-        }
 }
 @media (min-width:320px) and (max-width:480px){
     .containar{
@@ -285,64 +213,65 @@ padding: 20px 0px;
     .col4{
         width: 100%;
         float: left;
-    }
+}
     .logo{
         display: block;
-        width: 100%;
         text-align: center;
     }
     .header .menu li a{
         margin: 10px 0px 0px 9px;
     }
     .banner {
-      
         padding: 30px 0px;
-        text-align: center;
     }
     .banner h1 {
-       font-size: 26px;
-}
-    .banner p{
-        font-size: 12px;
+       font-size: 27px;
+    }
+    .banner p {
+       font-size: 12px;
     }
     .successfully-left h1 {
-        font-size: 26px;
+      
+        font-size: 35px;
         text-align: center;
     }
-    .successfully-left p{
+    .successfully-left p {
+      
         font-size: 12px;
+        
         text-align: center;
-
     }
     .successfully-right h1 {
+        
     
-        font-size: 26px;
-        margin: 0px 0px 0px 15px;
+        font-size: 27px;
+        
         text-align: center;
     }
-    .inner-feature{
-        margin: 0px 0px 20px;
-        width: 80%;
+    .feature {
+        width: 97%;
+        padding: 20px 0px 30px;
+       
+    }
+    .inner-feature {
+        padding: 50px 30px;
+        margin: 0px 15px 15px;
     }
     .inner-feature h4 {
-        font-size: 22px; 
+        font-size: 18px; 
     }
     .inner-feature p {
-        font-size: 12px;
-    
-        
+        font-size: 11px;
+     
+
     }
-    .feature{
-          padding: 20px 0px 30px;
-        }
-        .footer p {
-            font-size: 10px;
-        }
+    .footer p {
+        font-size: 10px;
+    }
 
-    
-@media (min-width:481px) and (max-width:767px){
+
 
 }
-@media (min-width:767px) and (max-width:1024px){
 
-}
+
+
